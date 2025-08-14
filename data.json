@@ -66,4 +66,15 @@
     "roll_no": "VI EC-Ext:2",
     "isRegistered": false
   }
-]}
+
+
+
+],
+"admin_info":{
+
+  "admin_id":1,
+  "name": "Admin",
+  "password": "11111111"
+}
+
+}
