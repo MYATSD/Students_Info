@@ -75,6 +75,8 @@
   "admin_id":1,
   "name": "Admin",
   "email":"admin@gmail.com",
+  "profile_image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Technological_University%2C_Thanlyin.svg/1200px-Technological_University%2C_Thanlyin.svg.png",
+  "profile": "/TTU.png",
   "password": "11111111",
   "password_confirmation": "11111111",
   "isLoggedIn":false
