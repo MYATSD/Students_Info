@@ -70,7 +70,7 @@
 
 
 ],
-"admin_info":{
+"admin_info":[{
 
   "admin_id":1,
   "name": "Admin",
@@ -80,6 +80,6 @@
   "password": "11111111",
   "password_confirmation": "11111111",
   "isLoggedIn":false
-}
+}]
 
 }
